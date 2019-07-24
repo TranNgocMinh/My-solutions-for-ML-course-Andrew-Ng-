@@ -2,7 +2,7 @@
 
 Các bài tập được xử lý bằng các thư viện Python như [Numpy](https://numpy.org/) hay [MatPlotLib](https://matplotlib.org/):
 
-- Bài tập 1 và đáp án (chưa hoàn chỉnh)
+- [Bài tập 1 và đáp án (chưa hoàn chỉnh)](https://github.com/TranNgocMinh/My-solutions-for-ML-course-Andrew-Ng-/tree/master/Exercise%201)
 
 ### Các bài tập bao gồm:
 
@@ -16,6 +16,6 @@ Các bài tập được xử lý bằng các thư viện Python như [Numpy](ht
 - __Exercise 8:__ Anomaly Detection and Recommender Systems
 
 ### Tài liệu
-- Các bài giảng
-- Video các bài giảng
-- Bài tập và các giải pháp tham khảo dùng Octave/MATLAB
+- [Các bài giảng](http://www.holehouse.org/mlclass/)
+- [Video các bài giảng](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [Bài tập và các giải pháp tham khảo dùng Octave/MATLAB](https://github.com/TranNgocMinh/andrew-ng-ml-solutions)
